@@ -1,0 +1,8 @@
+C:\Cau truc du lieu va giai thuat\Giai thuat Buoi_1\Giai thuat Buoi_1\bin\Debug\Giai thuat Buoi_1.exe.config
+C:\Cau truc du lieu va giai thuat\Giai thuat Buoi_1\Giai thuat Buoi_1\bin\Debug\Giai thuat Buoi_1.exe
+C:\Cau truc du lieu va giai thuat\Giai thuat Buoi_1\Giai thuat Buoi_1\bin\Debug\Giai thuat Buoi_1.pdb
+C:\Cau truc du lieu va giai thuat\Giai thuat Buoi_1\Giai thuat Buoi_1\obj\Debug\Giai thuat Buoi_1.csproj.AssemblyReference.cache
+C:\Cau truc du lieu va giai thuat\Giai thuat Buoi_1\Giai thuat Buoi_1\obj\Debug\Giai thuat Buoi_1.csproj.SuggestedBindingRedirects.cache
+C:\Cau truc du lieu va giai thuat\Giai thuat Buoi_1\Giai thuat Buoi_1\obj\Debug\Giai thuat Buoi_1.csproj.CoreCompileInputs.cache
+C:\Cau truc du lieu va giai thuat\Giai thuat Buoi_1\Giai thuat Buoi_1\obj\Debug\Giai thuat Buoi_1.exe
+C:\Cau truc du lieu va giai thuat\Giai thuat Buoi_1\Giai thuat Buoi_1\obj\Debug\Giai thuat Buoi_1.pdb

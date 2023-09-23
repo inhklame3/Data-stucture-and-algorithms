@@ -1,0 +1,8 @@
+C:\Cau truc du lieu va giai thuat\ThuChiGiadinh\ThuChiGiadinh\bin\Debug\ThuChiGiadinh.exe.config
+C:\Cau truc du lieu va giai thuat\ThuChiGiadinh\ThuChiGiadinh\bin\Debug\ThuChiGiadinh.exe
+C:\Cau truc du lieu va giai thuat\ThuChiGiadinh\ThuChiGiadinh\bin\Debug\ThuChiGiadinh.pdb
+C:\Cau truc du lieu va giai thuat\ThuChiGiadinh\ThuChiGiadinh\obj\Debug\ThuChiGiadinh.csproj.AssemblyReference.cache
+C:\Cau truc du lieu va giai thuat\ThuChiGiadinh\ThuChiGiadinh\obj\Debug\ThuChiGiadinh.csproj.SuggestedBindingRedirects.cache
+C:\Cau truc du lieu va giai thuat\ThuChiGiadinh\ThuChiGiadinh\obj\Debug\ThuChiGiadinh.csproj.CoreCompileInputs.cache
+C:\Cau truc du lieu va giai thuat\ThuChiGiadinh\ThuChiGiadinh\obj\Debug\ThuChiGiadinh.exe
+C:\Cau truc du lieu va giai thuat\ThuChiGiadinh\ThuChiGiadinh\obj\Debug\ThuChiGiadinh.pdb
